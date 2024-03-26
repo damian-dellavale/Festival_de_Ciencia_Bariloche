@@ -24,7 +24,7 @@ En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la
 Uno de los firmantes de la carta es premio nobel en Economía.
 
 [Carta original en inglés](Elijo_Crecer_2024/Letter-to-Javier-Milei-and-colleagues.pdf)\
-[Nota del diario Tiempo Argentino que incluye una versión de la nota en Castellano.](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)\
+[Nota del diario Tiempo Argentino que incluye una traducción de la carta al Castellano.](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)\
 [Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
 
 Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
