@@ -12,10 +12,10 @@ Difusión de actividades científicas realizadas en Bariloche.
 ## Ciencia X Argentina - Nodo Bariloche
 
 <!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg) --->
-<div style="text-align:center"> <img src="Elijo_Crecer_2024/NODO_BARILOCHE.jpg" alt="Festival Elijo Crecer 2024" width=70% height=70%/> </div>
+<p align="center"> <img src="Elijo_Crecer_2024/NODO_BARILOCHE.jpg" alt="Festival Elijo Crecer 2024" width=70% height=70%/> </p>
 
 <!--- ![QR code](Elijo_Crecer_2024/qr-code_hq.png =300x300) --->
-<div style="text-align:left"> <img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" width="300px" height="300px"/> </div>
+<p align="left"> <img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" width="300px" height="300px"/> </p>
 
 **Sitio web**\
 [elijocrecerfest.com/](http://elijocrecerfest.com/)
