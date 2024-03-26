@@ -20,7 +20,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 <p align="right">
 **Sitio web**\
-[elijocrecerfest.com/](http://elijocrecerfest.com/)
+[elijocrecerfest.com](http://elijocrecerfest.com/)
 
 **E-mail**\
 [elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
