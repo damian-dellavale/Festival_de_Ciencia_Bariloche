@@ -18,7 +18,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 
 
-## Información sobre la situación actual de la ciencia y soberanía Argentina.
+## Información sobre la situación actual de la ciencia y soberanía argentina.
 
 En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la República Argentina manifestando su preocupación por los feroces recortes presupuestarios al sistema científico y tecnológico argentino, los cuales atentan contra la soberanía nacional.
 Uno de los firmantes de la carta es premio nobel en Economía.
