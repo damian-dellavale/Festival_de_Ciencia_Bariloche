@@ -41,13 +41,13 @@ Un festival federal en defensa de la ciencia y la tecnología, que incluye [más
 
 ### Charlas de divulgación sobre ciencia en Bariloche
 
-[**Un parásito presente en los peces de Bariloche y alrededores**](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
+- **Un parásito presente en los peces de Bariloche y alrededores** [video](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
 [Gustavo Viozzi](https://www.instagram.com/gustavoviozzi/), Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
 
-[**Herpetología en la ciencia popular**](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
+- **Herpetología en la ciencia popular** [video](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 [Melina Barrionuevo](https://www.researchgate.net/profile/Melina-Barrionuevo), Investigadora del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
 
-**[Argentina y Francia investigan mejoras en el tratamiento de la epilepsia](https://youtu.be/zaysC2G6Ywo)**\
+- **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [video](https://youtu.be/zaysC2G6Ywo)\
 [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dellavale), Investigador del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
 
 ## Información sobre la situación actual de la ciencia y soberanía argentina
