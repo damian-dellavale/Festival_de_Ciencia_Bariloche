@@ -1,6 +1,9 @@
 <!---
 Refs:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown
+https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
+https://stackoverflow.com/questions/255170/markdown-and-image-alignment
 --->
 
 # Festival de Ciencia: Elijo Crecer 2024
@@ -9,10 +12,10 @@ Difusión de actividades científicas realizadas en Bariloche.
 ## Ciencia X Argentina - Nodo Bariloche
 
 <!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg) --->
-<img src="Elijo_Crecer_2024/qr-code.png" alt="QR code" width="50%" height="50%"/>
+<img src="Elijo_Crecer_2024/qr-code.png" alt="QR code" align="center" width="50%" height="50%"/>
 
 <!--- ![QR code](Elijo_Crecer_2024/qr-code_hq.png =300x300) --->
-<img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" width="300px" height="300px"/>
+<img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" align="left" width="300px" height="300px"/>
 
 **Sitio web**\
 [elijocrecerfest.com/](http://elijocrecerfest.com/)
