@@ -1,8 +1,7 @@
-# Ciencia en Bariloche
+# Festival de Ciencia: Elijo Crecer 2024
 Difusión de actividades científicas realizadas en Bariloche.
 
-# Festival de Ciencia: Elijo Crecer 2024
-## Ciencia X Argentina
+## Ciencia X Argentina - Nodo Bariloche
 
 ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg)
 
