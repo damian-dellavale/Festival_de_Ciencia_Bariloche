@@ -33,12 +33,22 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 <br clear="left"/>
 
-## Información sobre el festival.
+## Información sobre el festival
 
 Un festival federal en defensa de la ciencia y la tecnología, que incluye [más de 80 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
 
+<p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas.png" alt="Flyer consignas" width=70% height=70%/> </p>
 
-## Información sobre la situación actual de la ciencia y soberanía argentina.
+### Charlas de divulgación sobre ciencia en Bariloche
+
+[Un parásito presente en los peces de Bariloche y alrededores](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)
+[Gustavo Viozzi](https://www.instagram.com/gustavoviozzi/), Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [INIBIOMA](https://inibioma.conicet.gov.ar/).
+
+[Herpetología en la ciencia popular](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)
+[Melina Barrionuevo](https://www.researchgate.net/profile/Melina-Barrionuevo), Investigadora del [INIBIOMA](https://inibioma.conicet.gov.ar/).
+
+
+## Información sobre la situación actual de la ciencia y soberanía argentina
 
 En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la República Argentina manifestando su preocupación por los irracionales recortes presupuestarios al sistema científico y tecnológico argentino, los cuales atentan contra la soberanía nacional.
 Uno de los firmantes de la carta es premio nobel en Economía.
