@@ -7,10 +7,12 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 ![QR code](Elijo_Crecer_2024/qr-code_300x300.png)
 
-**Email:** [elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
+**Email:**\
+[elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
 
-**Instagram** [@elijocrecerfest](https://www.instagram.com/elijocrecerfest/)\
-              [@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc/)
+**Instagram**\
+[@elijocrecerfest](https://www.instagram.com/elijocrecerfest/)\
+[@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc/)
 
 ## Información sobre el festival.
 
