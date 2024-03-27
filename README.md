@@ -56,7 +56,9 @@ Disertante: [Melina Barrionuevo](https://www.researchgate.net/profile/Melina-Bar
 
 - **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
 Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dellavale), Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
-<img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=50% height=50%/>
+
+<img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
+
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
 <br clear="left"/>
 
