@@ -63,7 +63,7 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 
 [Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
 
-- Notas de la revista científica internacional *Nature* sobre los recortes al presupuesto de la salud y ciencia Argentina.
+- Notas de la revista ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.
 
 Septiembre 2023:\
 [Argentina, la ciencia pública está amenazada](https://www.nature.com/articles/d41586-023-02862-5)
