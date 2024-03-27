@@ -4,10 +4,13 @@ https://drive.google.com/drive/folders/14gJxPP3Jr46huA5qB-scOJyFUpYCBe7K?usp=dri
 
 Refs:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown
 https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
 https://stackoverflow.com/questions/255170/markdown-and-image-alignment
 https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world/blob/master/markdown/github_readme_center_and_align_images.md
+
+https://stackoverflow.com/questions/66828242/how-to-add-tab-spaces-in-git-readme-between-two-sentences
 --->
 
 # Festival de Ciencia: Elijo Crecer 2024
@@ -21,6 +24,8 @@ Difusión de actividades científicas realizadas en Bariloche.
 <!--- ![QR code](Elijo_Crecer_2024/qr-code_hq.png =300x300) --->
 <img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" align="left" width="300px" height="300px"/>
 
+<br>
+<br>
 **Sitio web**\
 [elijocrecerfest.com](http://elijocrecerfest.com/)
 
@@ -60,11 +65,11 @@ Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crec
 - En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la República Argentina manifestando su preocupación por los irracionales recortes presupuestarios al sistema científico y tecnológico argentino, los cuales atentan contra la soberanía nacional.
 Uno de los firmantes de la carta es premio nobel en Economía.
 
-[Carta original en inglés](Elijo_Crecer_2024/Letter-to-Javier-Milei-and-colleagues.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[Carta original en inglés](Elijo_Crecer_2024/Letter-to-Javier-Milei-and-colleagues.pdf)
 
-[Nota del diario Tiempo Argentino que incluye una traducción de la carta al castellano.](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Nota del diario Tiempo Argentino que incluye una traducción de la carta al castellano.](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)
 
-[Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
+&nbsp;&nbsp;&nbsp;&nbsp;[Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
 
 - Notas de la revista ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.
 
