@@ -62,12 +62,12 @@ Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crec
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
 - En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la República Argentina manifestando su preocupación por los irracionales recortes presupuestarios al sistema científico y tecnológico argentino, los cuales atentan contra la soberanía nacional.
-Uno de los firmantes de la carta es premio nobel en Economía.\
+Uno de los firmantes de la carta es premio nobel en Economía.
   - [Carta original en inglés](Elijo_Crecer_2024/Letter-to-Javier-Milei-and-colleagues.pdf)
   - [Nota del diario Tiempo Argentino que incluye una traducción de la carta al castellano.](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)
   - [Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
 
-- Notas de la revista ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.\
+- Notas de la revista ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.
   - Septiembre 2023: [Argentina, la ciencia pública está amenazada](https://www.nature.com/articles/d41586-023-02862-5)
   - Octubre 2023: [Elecciones en Argentina, el candidato favorito promete recortar la financiación científica](https://www.nature.com/articles/d41586-023-03191-3)
   - Noviembre 2023: [Recortes presupuestarios en salud y ciencia no deberían ser una opción en las elecciones presidenciales de Argentina](https://www.nature.com/articles/d41586-023-03480-x)
