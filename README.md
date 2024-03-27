@@ -59,9 +59,9 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 
 <img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/> <br clear="left"/>
 
-** 26 de marzo: Día Mundial para la Concienciación de la Epilepsia **
+**26 de marzo: Día Mundial para la Concienciación de la Epilepsia**
 
-**[Purple Day: de qué se trata la campaña para concientizar sobre la epilepsia](https://www.pagina12.com.ar/724432-purple-day-de-que-se-trata-la-campana-para-concientizar-sobr)
+**[Purple Day: de qué se trata la campaña para concientizar sobre la epilepsia](https://www.pagina12.com.ar/724432-purple-day-de-que-se-trata-la-campana-para-concientizar-sobr)**
 
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
 
