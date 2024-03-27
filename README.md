@@ -1,4 +1,7 @@
 <!---
+Link to the google drive:
+https://drive.google.com/drive/folders/14gJxPP3Jr46huA5qB-scOJyFUpYCBe7K?usp=drive_link
+
 Refs:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown
