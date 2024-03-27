@@ -28,7 +28,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 <div style="float:left; display:inline;">
 <!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =300x300) --->
-<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="left" width="300px" height="300px"/>
+<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" width="300px" height="300px"/>
 </div>
 
 **Sitio web Bariloche**\
