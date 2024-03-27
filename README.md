@@ -21,11 +21,19 @@ Difusión de actividades científicas realizadas en Bariloche.
 <!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg) --->
 <p align="center"> <img src="Elijo_Crecer_2024/NODO_BARILOCHE.jpg" alt="Festival Elijo Crecer 2024" width=70% height=70%/> </p>
 
-<!--- ![QR code](Elijo_Crecer_2024/qr-code_hq.png =300x300) --->
-<img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" align="left" width="300px" height="300px"/>
+<!--- ![QR code githubRepo](Elijo_Crecer_2024/qr-code_hq_githubRepo.png =300x300) --->
+<img src="Elijo_Crecer_2024/qr-code_hq_githubRepo.png" alt="QR code githubRepo" align="left" width="300px" height="300px"/>
+
+<!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =300x300) --->
+<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="right" width="300px" height="300px"/>
 
 <!--- <br>\ --->
-**Sitio web**\
+<br align="left"/>
+
+**Sitio web Bariloche**\
+[elijocrecer-brc](https://sites.google.com/view/elijocrecer-brc)
+
+**Sitio web nacional**\
 [elijocrecerfest.com](http://elijocrecerfest.com/)
 
 **E-mail**\
@@ -48,11 +56,8 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 ### Charlas de divulgación sobre ciencia en Bariloche
 
-- **Un parásito presente en los peces de Bariloche y alrededores** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
+- **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
 Disertante: [Gustavo Viozzi](https://www.instagram.com/gustavoviozzi/), Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
-
-- **Herpetología en la ciencia popular** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
-Disertante: [Melina Barrionuevo](https://www.researchgate.net/profile/Melina-Barrionuevo), Investigadora del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
 
 - **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
 Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dellavale), Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
@@ -69,6 +74,11 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 
 <br>\
 Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
+
+### Estand de divulgación sobre ciencia en Bariloche
+
+- **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana.** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
+A cargo de: [Maria Gabriela Perotti](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes), Investigadora del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
