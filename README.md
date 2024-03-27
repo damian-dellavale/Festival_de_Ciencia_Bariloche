@@ -67,7 +67,7 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 
 <br clear="left"/>
 
-<br>
+<br/>
 Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
