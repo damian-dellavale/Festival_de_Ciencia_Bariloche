@@ -57,9 +57,14 @@ Disertante: [Melina Barrionuevo](https://www.researchgate.net/profile/Melina-Bar
 - **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
 Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dellavale), Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
 
-<img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
+<img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/> <br clear="left"/>
+
+** 26 de marzo: Día Mundial para la Concienciación de la Epilepsia **
+
+**[Purple Day: de qué se trata la campaña para concientizar sobre la epilepsia](https://www.pagina12.com.ar/724432-purple-day-de-que-se-trata-la-campana-para-concientizar-sobr)
 
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
+
 <br clear="left"/>
 
 Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
