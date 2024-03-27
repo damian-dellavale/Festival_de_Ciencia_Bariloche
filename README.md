@@ -68,10 +68,7 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
 
-<br clear="left"/>
-
-<br>\
-Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
+<!--- <br clear="left"/> --->
 
 ### Estands de divulgación sobre ciencia en Bariloche
 
@@ -96,3 +93,6 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
   - Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
+
+<br>\
+Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
