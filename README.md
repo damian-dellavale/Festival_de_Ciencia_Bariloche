@@ -73,7 +73,7 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 <br>\
 Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
 
-### Estand de divulgación sobre ciencia en Bariloche
+### Estands de divulgación sobre ciencia en Bariloche
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana.** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 A cargo de: [Maria Gabriela Perotti](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes), Investigadora del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
