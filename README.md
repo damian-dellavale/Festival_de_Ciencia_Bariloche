@@ -55,7 +55,7 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 
 Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
 
-## Información sobre la situación actual de la ciencia y soberanía argentina
+## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
 - En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la República Argentina manifestando su preocupación por los irracionales recortes presupuestarios al sistema científico y tecnológico argentino, los cuales atentan contra la soberanía nacional.
 Uno de los firmantes de la carta es premio nobel en Economía.
