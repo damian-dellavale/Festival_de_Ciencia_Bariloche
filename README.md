@@ -43,8 +43,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 **X**\
 [twitter.com/ElijoCrecer](https://twitter.com/ElijoCrecer)
-
-<!--- <br clear="left"/> --->
+<br clear="left"/>
 
 ## Información sobre el festival
 
@@ -67,8 +66,7 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 **[Purple Day: de qué se trata la campaña para concientizar sobre la epilepsia](https://www.pagina12.com.ar/724432-purple-day-de-que-se-trata-la-campana-para-concientizar-sobr)**
 
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
-
-<!--- <br clear="left"/> --->
+<br clear="left"/>
 
 ### Estands de divulgación sobre ciencia en Bariloche
 
@@ -94,5 +92,5 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
   - Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
 
-<br>\
+<br>
 Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
