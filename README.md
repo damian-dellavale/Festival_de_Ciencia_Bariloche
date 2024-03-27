@@ -22,7 +22,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 <p align="center"> <img src="Elijo_Crecer_2024/NODO_BARILOCHE.jpg" alt="Festival Elijo Crecer 2024" width=70% height=70%/> </p>
 
 <!--- ![QR code](Elijo_Crecer_2024/qr-code_hq.png =300x300) --->
-<img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" align="left" width="300px" height="300px"/>\
+<img src="Elijo_Crecer_2024/qr-code_hq.png" alt="QR code" align="left" width="300px" height="300px"/>
 
 <!--- <br>\ --->
 **Sitio web**\
@@ -68,19 +68,12 @@ Uno de los firmantes de la carta es premio nobel en Economía.\
 [Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
 
 - Notas de la revista ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.
+Septiembre 2023: [Argentina, la ciencia pública está amenazada](https://www.nature.com/articles/d41586-023-02862-5)\
+Octubre 2023: [Elecciones en Argentina, el candidato favorito promete recortar la financiación científica](https://www.nature.com/articles/d41586-023-03191-3)\
+Noviembre 2023: [Recortes presupuestarios en salud y ciencia no deberían ser una opción en las elecciones presidenciales de Argentina](https://www.nature.com/articles/d41586-023-03480-x)\
+Noviembre 2023: ["Extremadamente preocupante", investigadores argentinos se tambalean tras la elección de un presidente anticientífico](https://www.nature.com/articles/d41586-023-03620-3)\
+Marzo 2024: ["Desesperación", investigadores argentinos protestan mientras el presidente comienza a desmantelar la ciencia](https://www.nature.com/articles/d41586-024-00628-1)\
+Marzo 2024: [Los riesgos para la salud de la política neoliberal extrema en Argentina](https://www.nature.com/articles/d41591-024-00019-z)
 
-Septiembre 2023:\
-[Argentina, la ciencia pública está amenazada](https://www.nature.com/articles/d41586-023-02862-5)\
-Octubre 2023:\
-[Elecciones en Argentina, el candidato favorito promete recortar la financiación científica](https://www.nature.com/articles/d41586-023-03191-3)\
-Noviembre 2023:\
-[Recortes presupuestarios en salud y ciencia no deberían ser una opción en las elecciones presidenciales de Argentina](https://www.nature.com/articles/d41586-023-03480-x)\
-Noviembre 2023:\
-["Extremadamente preocupante", investigadores argentinos se tambalean tras la elección de un presidente anticientífico](https://www.nature.com/articles/d41586-023-03620-3)\
-Marzo 2024:\
-["Desesperación", investigadores argentinos protestan mientras el presidente comienza a desmantelar la ciencia](https://www.nature.com/articles/d41586-024-00628-1)\
-Marzo 2024:\
-[Los riesgos para la salud de la política neoliberal extrema en Argentina](https://www.nature.com/articles/d41591-024-00019-z)\
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
-Marzo 2024:\
-[Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
+Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
