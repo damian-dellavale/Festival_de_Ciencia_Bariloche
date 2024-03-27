@@ -24,10 +24,6 @@ Difusión de actividades científicas realizadas en Bariloche.
 <!--- ![QR code githubRepo](Elijo_Crecer_2024/qr-code_hq_githubRepo.png =300x300) --->
 <img src="Elijo_Crecer_2024/qr-code_hq_githubRepo.png" alt="QR code githubRepo" align="left" width="300px" height="300px"/>
 
-<!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =300x300) --->
-<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="right" width="300px" height="300px"/>
-
-<!--- <br>\ --->
 <br align="left"/>
 
 **Sitio web Bariloche**\
@@ -47,6 +43,9 @@ Difusión de actividades científicas realizadas en Bariloche.
 [twitter.com/ElijoCrecer](https://twitter.com/ElijoCrecer)
 
 <br clear="left"/>
+
+<!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =300x300) --->
+<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="right" width="300px" height="300px"/>
 
 ## Información sobre el festival
 
