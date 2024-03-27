@@ -21,12 +21,8 @@ Difusión de actividades científicas realizadas en Bariloche.
 <!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg) --->
 <p align="center"> <img src="Elijo_Crecer_2024/NODO_BARILOCHE.jpg" alt="Festival Elijo Crecer 2024" width=70% height=70%/> </p>
 
-<br align="left"/>
 <!--- ![QR code githubRepo](Elijo_Crecer_2024/qr-code_hq_githubRepo.png =300x300) --->
-<img src="Elijo_Crecer_2024/qr-code_hq_githubRepo.png" alt="QR code githubRepo" width="300px" height="300px"/>
-<clear="left"/>
-
-<br align="left"/>
+<img src="Elijo_Crecer_2024/qr-code_hq_githubRepo.png" alt="QR code githubRepo" align="left" width="300px" height="300px"/>
 
 **Sitio web Bariloche**\
 [elijocrecer-brc](https://sites.google.com/view/elijocrecer-brc)
@@ -46,9 +42,9 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 <br clear="left"/>
 
-<br align="right"/>
 <!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =300x300) --->
-<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" width="300px" height="300px"/>
+<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="right" width="300px" height="300px"/>
+
 <br clear="right"/>
 
 ## Información sobre el festival
