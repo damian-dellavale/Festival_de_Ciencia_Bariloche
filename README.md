@@ -185,9 +185,9 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 <br clear="left"/>
 
 <p align="center">
-<b>Los Fantasmas del cuartel&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-Alma Mestiza&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-Orquesta La Llave&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<b>Los Fantasmas del cuartel&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Alma Mestiza&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Orquesta La Llave&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Banda Atómica</b>
 </p>
 
