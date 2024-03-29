@@ -62,15 +62,6 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
 *Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
 
-<img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
-
-**26 de Marzo: Día Mundial para la Concienciación de la Epilepsia**
-
-**[Purple Day: de qué se trata la campaña para concientizar sobre la epilepsia](https://www.pagina12.com.ar/724432-purple-day-de-que-se-trata-la-campana-para-concientizar-sobr)**
-
-**[#purpleday](https://www.facebook.com/hashtag/purpleday)**
-<br clear="left"/>
-
 - 14hs: **¿Cuál es la utilidad de la investigación en física básica?**\
 *Diego Mazzitelli*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes).
 
@@ -79,8 +70,20 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 ### Estands de divulgación sobre la ciencia en Bariloche
 
-- **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana.** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
+- **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 *Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes).
+
+- **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
+*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
+
+<img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
+
+**26 de Marzo: Día Mundial para la Concienciación de la Epilepsia**
+
+**[Purple Day: de qué se trata la campaña para concientizar sobre la epilepsia](https://www.pagina12.com.ar/724432-purple-day-de-que-se-trata-la-campana-para-concientizar-sobr)**
+
+**[#purpleday](https://www.facebook.com/hashtag/purpleday)**
+<br clear="left"/>
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
