@@ -138,6 +138,20 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 [2023 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition/one-week-old-axolotl-after-hatching)\
 <br clear="left"/>
 
+- **Paleontología bajo la lupa**\
+*Angélica Ballesteros*, investigadora postdoctoral del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=55603&datos_academicos=yes)
+
+<img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=20% height=20%/>
+
+[Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/paleontologia-y-micropaleontologia/)
+<!---[Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/wp-content/uploads/sites/61/2015/04/Mircropaleontologia.jpg) --->
+<br clear="left"/>
+
+**Descubriendo especies antes de su extinción**\
+Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=51651&datos_academicos=yes)
+
+
+
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
 *Damián Dellavale*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
