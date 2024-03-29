@@ -87,9 +87,15 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 - **Juegos de Química**\
 *Andrea Bellver*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)\
+
+<img src="Elijo_Crecer_2024/tablaPeriodica.jpg" alt="tablaPeriodica" align="left" width=25% height=25%/>
+
 [Novedosa tabla periódica hecha en Bariloche](https://www.anbariloche.com.ar/noticias/2017/02/01/56949-presentaron-una-novedosa-tabla-periodica-hecha-en-bariloche)\
+<br/>
 [Una tabla periódica "made in" Bariloche](https://www.rionegro.com.ar/225-zona-de-descargas-folletos-de-divulgacion/)\
-[Descarga la tabla periódica](https://www.cab.cnea.gov.ar/images/gacetillas/muestra_cab_ib/folletos_muestra/tabla_periodica_2016.pdf)
+<br/>
+[Descarga la tabla periódica](https://www.cab.cnea.gov.ar/images/gacetillas/muestra_cab_ib/folletos_muestra/tabla_periodica_2016.pdf)\
+<br clear="left"/>
 
 - **La Fabrica de Neuronas**\
 *Lucas Mongiat*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes)
