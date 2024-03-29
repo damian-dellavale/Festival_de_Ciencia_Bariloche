@@ -132,9 +132,9 @@ Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.ar
 
 **26 de Marzo: Día Mundial para la Concienciación de la Epilepsia**
 
-**[Reseña Estudios en Neurociencias y Sistemas Complejos - CONICET - Hospital El Cruce - Universidad Nacional Arturo Jauretche](https://enys.conicet.gov.ar/el-26-de-marzo-se-celebra-el-dia-de-la-epilepsia/)**
+**[Reseña en el Centro de Estudios en Neurociencias y Sistemas Complejos (ENyS - CONICET) - Hospital El Cruce - Universidad Nacional Arturo Jauretche](https://enys.conicet.gov.ar/el-26-de-marzo-se-celebra-el-dia-de-la-epilepsia/)**
 
-**[Nota en el Estudios en Neurociencias y Sistemas Complejos - CONICET - Hospital El Cruce - Universidad Nacional Arturo Jauretche](https://enys.conicet.gov.ar/dia-mundial-para-la-concientizacion-de-la-epilepsia-la-enfermedad-tambien-puede-presentarse-despues-de-los-60/)
+**[Nota en el Centro de Estudios en Neurociencias y Sistemas Complejos (ENyS - CONICET) - Hospital El Cruce - Universidad Nacional Arturo Jauretche](https://enys.conicet.gov.ar/dia-mundial-para-la-concientizacion-de-la-epilepsia-la-enfermedad-tambien-puede-presentarse-despues-de-los-60/)**
 
 **[Purple Day: de qué se trata la campaña para concientizar sobre la epilepsia](https://www.pagina12.com.ar/724432-purple-day-de-que-se-trata-la-campana-para-concientizar-sobr)**
 
