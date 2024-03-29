@@ -129,7 +129,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - **Exposición de fotografía científica**\
 *Antonio Segura*, investigador en [Ciencias Biológicas - Universidad Nacional del Comahue (UNCo)](https://app.crub.uncoma.edu.ar/carreras/Licenciatura%20en%20Biolog%C3%ADa/info/2378)
 
-<img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=20% height=20%/>
+<img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=25% height=25%/>
 
 [Estudiantes del CRUB ganaron el concurso Nacional de Fotografía Científica de Wikipedia](https://internacionales.uncoma.edu.ar/estudiantes-del-crub-ganaron-el-concurso-nacional-de-fotografia-cientifica-de-wikipedia-2/)\
 <br/>
@@ -141,7 +141,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - **Paleontología bajo la lupa**\
 *Angélica Ballesteros*, investigadora postdoctoral del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=55603&datos_academicos=yes)
 
-<img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=20% height=20%/>
+<img src="Elijo_Crecer_2024/Mircropaleontologia.jpg" alt="micropaleontología" align="left" width=25% height=25%/>
 
 [Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/paleontologia-y-micropaleontologia/)
 <!---[Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/wp-content/uploads/sites/61/2015/04/Mircropaleontologia.jpg) --->
