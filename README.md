@@ -57,7 +57,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 [Nota en en el sitio web noticiasdebariloche.com.ar](https://www.noticiasdebariloche.com.ar/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina/)
 
-<br>
+<br/>
 <p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_1.png" alt="Flyer consignas" width=70% height=70%/> </p>
 
 ### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
@@ -133,6 +133,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 <img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=25% height=25%/>
 [2023 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition/one-week-old-axolotl-after-hatching)
 <br clear="left"/>
+<br/>
 
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
 *Damián Dellavale*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
@@ -177,4 +178,4 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 
 [Descubre las últimas noticias sobre CONICET](https://www.rionegro.com.ar/tag/conicet/)
 
-<br> Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
+<br/> Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
