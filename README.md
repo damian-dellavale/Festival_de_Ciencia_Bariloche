@@ -92,10 +92,23 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 *Lucas Mongiat*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes).
 
 - **Analisis de lúpulo**\
-*Luciana Cavallini* [CONICET - IPATEC]([CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=).
+*Luciana Cavallini* [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=).
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 *Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes).
+
+- **Anillos de Arboles: ¿Qué historias nos pueden contar?**\
+*Maria Laura Suarez* [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
+
+- **La mesa de las plumas: Para jugar en familia y aprender de las aves de Bariloche**\
+*Lucía Bocelli* Investigadora en el grupo de Biología y Ecología de Animales Patagónicos [CONICET- BEAP](https://inibioma.conicet.gov.ar/zoologia/)
+
+- **Magnetismo en la vida cotidiana**\
+*Elin Winkler* Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22955&datos_academicos=yes)
+
+
+
+
 
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
 *Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
