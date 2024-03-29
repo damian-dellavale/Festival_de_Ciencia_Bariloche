@@ -150,7 +150,12 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 **Descubriendo especies antes de su extinción**\
 Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=51651&datos_academicos=yes)
 
+**Conservación y manejo de especies forestales: sobre la definición de zonas genéticas**\
+*Carolina Soliani*, investigadora del [CONICET - IFAB](https://www.conicet.gov.ar/new_scp/detalle.php?id=23662&datos_academicos=yes&keywords=)
+*María Marta Azpilicueta*, investigadora del [INTA](https://www.argentina.gob.ar/inta)
 
+**Ecologia de los disturbios**\
+*Sofia Gonzales*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=41644&datos_academicos=yes)
 
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
 *Damián Dellavale*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
@@ -167,6 +172,14 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
 <br clear="left"/>
+
+### Juegos (Av. 12 de Octubre #14, ex-Puerto San Carlos)
+
+**Juego "Dark Matter"**
+
+### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
+
+
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
