@@ -181,8 +181,8 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 
 <img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="almaMestiza" align="left" width=25% height=25%/>\
 <img src="Elijo_Crecer_2024/fantasmas.jpg" alt="fantasmas" align="right" width=25% height=25%/>\
-<center>**Alma Mestiza**</center>
-<center>**Los Fantasmas del cuartel**</center>
+**<center>Alma Mestiza</center>**\
+**<center>Los Fantasmas del cuartel</center>**
 <br clear="left"/>
 
 <img src="Elijo_Crecer_2024/lallave.jpg" alt="lallave" align="left" width=25% height=25%/>\
