@@ -51,6 +51,10 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 <p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_1.png" alt="Flyer consignas" width=70% height=70%/> </p>
 
+[Nota en Diario Río Negro](https://www.rionegro.com.ar/sociedad/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina-3462956/)
+
+[Nota en en el sitio web noticiasdebariloche.com.ar](https://www.noticiasdebariloche.com.ar/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina/)
+
 ### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
 - 11hs: **¿Cómo se "fabrica" una manzana?**\
@@ -117,11 +121,5 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
   - Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
-
-## Elijo Crecer en la prensa local
-
-[Nota en Diario Río Negro](https://www.rionegro.com.ar/sociedad/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina-3462956/)
-
-[Nota en en el sitio web noticiasdebariloche.com.ar](https://www.noticiasdebariloche.com.ar/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina/)
 
 <br> Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
