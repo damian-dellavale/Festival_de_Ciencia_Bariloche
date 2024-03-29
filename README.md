@@ -97,7 +97,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 *Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes)
 
-- **Anillos de Arboles: ¿Qué historias nos pueden contar?**\
+- **Anillos de Árboles: ¿Qué historias nos pueden contar?**\
 *Maria Laura Suarez* [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
 
 - **La mesa de las plumas: Para jugar en familia y aprender de las aves de Bariloche**\
@@ -106,6 +106,10 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - **Magnetismo en la vida cotidiana**\
 *Elin Winkler* Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22955&datos_academicos=yes)
 
+- **¿Ciencia y Poesía? Experimentaciones poéticas y conocimientos plurales**
+*Gabriela Klier* investigadora del [CONICET - CITECDE](https://www.conicet.gov.ar/new_scp/detalle.php?id=40871&datos_academicos=yes&keywords=)\
+[CITECDE - URN]https://www.institutocitecde.com/\
+[Asamblea de Poetas](https://www.elcordillerano.com.ar/noticias/2024/01/24/180316-vamos-a-poetizar-para-provocar-un-sismo-en-la-crueldad-normalizada)
 
 
 
