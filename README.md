@@ -132,7 +132,8 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 [Fotografías microscópicas: estudiantes de la Universidad Nacional del Comahue ganó tres premios](https://www.redaccion.com.ar/fotografias-microscopicas-una-pareja-de-la-universidad-nacional-del-comahue-gano-tres-premios/)
 
 <img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=20% height=20%/>
-<br clear="left"/>\
+<br clear="left"/>
+
 [2023 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition/one-week-old-axolotl-after-hatching)
 <br/>
 
