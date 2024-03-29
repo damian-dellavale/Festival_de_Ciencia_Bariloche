@@ -81,36 +81,46 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 *Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes)
 
 - 17hs: **Grandes proyectos tecnológicos y transición energética**\
-*Adriana Serquis*, Presidenta de la CNEA, Investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes)
+*Adriana Serquis*, Investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes)\
+Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
 
 ### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 - **Juegos de Química**\
-*Andrea Bellver*
+*Andrea Bellver* Investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
 
 - **La Fabrica de Neuronas**\
 *Lucas Mongiat*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes)
 
 - **Analisis de lúpulo**\
-*Luciana Cavallini* [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=)
+*Luciana Cavallini*, Investigadora del [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=)
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 *Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes)
 
 - **Anillos de Árboles: ¿Qué historias nos pueden contar?**\
-*Maria Laura Suarez* [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
+*Maria Laura Suarez*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
 
 - **La mesa de las plumas: Para jugar en familia y aprender de las aves de Bariloche**\
-*Lucía Bocelli* Investigadora en el grupo de Biología y Ecología de Animales Patagónicos [CONICET- BEAP](https://inibioma.conicet.gov.ar/zoologia/)\
+*Lucía Bocelli*, Investigadora en el grupo de Biología y Ecología de Animales Patagónicos [CONICET- BEAP](https://inibioma.conicet.gov.ar/zoologia/)\
 [naturalezasur.com.ar](https://naturalezasur.com.ar/)
 
 - **Magnetismo en la vida cotidiana**\
-*Elin Winkler* Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22955&datos_academicos=yes)
+*Elin Winkler*, Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22955&datos_academicos=yes)
 
-- **¿Ciencia y Poesía? Experimentaciones poéticas y conocimientos plurales**
-*Gabriela Klier* investigadora del [CONICET - CITECDE](https://www.conicet.gov.ar/new_scp/detalle.php?id=40871&datos_academicos=yes&keywords=)\
+- **¿Ciencia y Poesía? Experimentaciones poéticas y conocimientos plurales**\
+*Gabriela Klier*, Investigadora del [CONICET - CITECDE](https://www.conicet.gov.ar/new_scp/detalle.php?id=40871&datos_academicos=yes&keywords=)\
 [CITECDE - URN](https://www.institutocitecde.com/)\
 [Asamblea de Poetas Bariloche](https://www.elcordillerano.com.ar/noticias/2024/01/24/180316-vamos-a-poetizar-para-provocar-un-sismo-en-la-crueldad-normalizada)
+
+- **Una Argentina sin ciencia**\
+*Grupo de Investigaciones en Biología de la Conservación (GrInBiC)*, [grinbic.wordpress.com](https://grinbic.wordpress.com/)\
+[GrInBiC en INIBIOMA](https://inibioma.conicet.gov.ar/tag/grinbic/)\
+[instagram.com/grinbic](https://www.instagram.com/grinbic/)
+
+- **Crecer cristales**\
+*Diego Franco*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27844&datos_academicos=yes)
+
 
 
 
