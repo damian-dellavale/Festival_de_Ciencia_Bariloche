@@ -49,12 +49,15 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 80 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
 
-<p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_3.jpg" alt="Flyer consignas" width=70% height=70%/> </p>
+<p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_1.png" alt="Flyer consignas" width=70% height=70%/> </p>
 
-### Charlas de divulgación sobre ciencia en Bariloche
+### Charlas de divulgación sobre ciencia en Bariloche (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
-- **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
-Disertante: [Gustavo Viozzi](https://www.instagram.com/gustavoviozzi/), Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
+- **¿Cómo se "fabrica" una manzana? (11hs)**
+Marina Arbetman
+
+- **Trucha, parásito y persona y un punto de encuentro: tu intestino (16hs)** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
+*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
 
 - **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
 Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dellavale), Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
