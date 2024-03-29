@@ -51,12 +51,12 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 <p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_1.png" alt="Flyer consignas" width=70% height=70%/> </p>
 
-### Charlas de divulgación sobre ciencia en Bariloche (Sala Chonek - Museo de la Patagonia, Centro Cívico)
+### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
 - 11hs: **¿Cómo se "fabrica" una manzana?**\
 *Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
 
-- **13hs: Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
+- 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
 *Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
 
 <img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
@@ -68,10 +68,10 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
 <br clear="left"/>
 
-- **16hs: Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
+- 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
 *Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
 
-### Estands de divulgación sobre ciencia en Bariloche
+### Estands de divulgación sobre la ciencia en Bariloche
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana.** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 *Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
