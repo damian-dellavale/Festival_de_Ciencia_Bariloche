@@ -237,7 +237,7 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 <br/>
 <p align="center">
 <!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg) --->
-<img src="Elijo_Crecer_2024/mesaFederal.jpg" alt="mesaFederal" width=70% height=70%/>
+<img src="Elijo_Crecer_2024/mesaFederal.jpg" alt="mesaFederal" width=50% height=50%/>
 </p>
 
 ### Prensa local
