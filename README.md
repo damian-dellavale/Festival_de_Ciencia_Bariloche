@@ -53,7 +53,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 ### Charlas de divulgación sobre ciencia en Bariloche (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
-- **11hs: ¿Cómo se "fabrica" una manzana?)**
+- 11hs: **¿Cómo se "fabrica" una manzana?**\
 *Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
 
 - **13hs: Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
