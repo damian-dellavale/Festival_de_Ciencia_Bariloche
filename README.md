@@ -49,11 +49,15 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 80 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
 
-<p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_1.png" alt="Flyer consignas" width=70% height=70%/> </p>
+[Nota en el sitio web de la UNCOMA](https://extension.uncoma.edu.ar/index.php/prensa/festival-elijo-crecer/)
 
-[Nota en Diario Río Negro](https://www.rionegro.com.ar/sociedad/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina-3462956/)
+[Nota en el sitio web de la UNRN](https://www.unrn.edu.ar/eventos/Elijo-Crecer-2064)
+
+[Nota en el diario Río Negro](https://www.rionegro.com.ar/sociedad/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina-3462956/)
 
 [Nota en en el sitio web noticiasdebariloche.com.ar](https://www.noticiasdebariloche.com.ar/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina/)
+
+<p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_1.png" alt="Flyer consignas" width=70% height=70%/> </p>
 
 ### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
@@ -121,5 +125,11 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
   - Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
+
+### Prensa local
+
+[Trabajadores del Conicet protestaron en Bariloche contra el avance de los despidos](https://www.rionegro.com.ar/gremios/trabajadores-del-conicet-protestaron-en-bariloche-contra-el-avance-de-los-despidos-3486094/)
+
+[Descubre las últimas noticias sobre CONICET](https://www.rionegro.com.ar/tag/conicet/)
 
 <br> Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
