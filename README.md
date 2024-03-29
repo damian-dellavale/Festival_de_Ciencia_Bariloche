@@ -129,8 +129,8 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - **Exposición de fotografía científica**\
 *Antonio Segura*, investigador en [Ciencias Biológicas - Universidad Nacional del Comahue (UNCo)](https://app.crub.uncoma.edu.ar/carreras/Licenciatura%20en%20Biolog%C3%ADa/info/2378)\
 [Estudiantes del CRUB ganaron el concurso Nacional de Fotografía Científica de Wikipedia](https://internacionales.uncoma.edu.ar/estudiantes-del-crub-ganaron-el-concurso-nacional-de-fotografia-cientifica-de-wikipedia-2/)\
-[Fotografías microscópicas: estudiantes de la Universidad Nacional del Comahue ganó tres premios](https://www.redaccion.com.ar/fotografias-microscopicas-una-pareja-de-la-universidad-nacional-del-comahue-gano-tres-premios/)
-<img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=25% height=25%/>
+[Fotografías microscópicas: estudiantes de la Universidad Nacional del Comahue ganó tres premios](https://www.redaccion.com.ar/fotografias-microscopicas-una-pareja-de-la-universidad-nacional-del-comahue-gano-tres-premios/)\
+<img src="Elijo_Crecer_2024/iod-2023_Vieto-Bonilla_Priscilla_e29661_f19793.jpg" alt="axolotl" align="left" width=20% height=20%/>\
 [2023 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition/one-week-old-axolotl-after-hatching)
 <br clear="left"/>
 <br/>
