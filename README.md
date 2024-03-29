@@ -63,53 +63,52 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 ### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
 - 11hs: **¿Cómo se "fabrica" una manzana?**\
-*Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=56945&datos_academicos=yes)
+*Marina Arbetman*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=56945&datos_academicos=yes)
 
 - 12hs: **Acerca de cuantas vidas esta hecho un árbol**\
-*Maria Laura Suarez*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
+*Maria Laura Suarez*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
 
 - 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
-*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
+*Damián Dellavale*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
 - 14hs: **¿Cuál es la utilidad de la investigación en física básica?**\
-*Diego Mazzitelli*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes)
+*Diego Mazzitelli*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes)
 
 - 15hs: **Presentando al pájaro Carpintero Gigante, vecino del barrio arbolado**\
-*Valeria Ojeda*, Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=24326&datos_academicos=yes)
+*Valeria Ojeda*, investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=24326&datos_academicos=yes)
 
 - 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
-*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes)
+*Gustavo Viozzi*, docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes)
 
 - 17hs: **Grandes proyectos tecnológicos y transición energética**\
-*Adriana Serquis*, Investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes)\
-Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
+*Adriana Serquis*, investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
 
 ### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 - **Juegos de Química**\
-*Andrea Bellver* Investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
+*Andrea Bellver* investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
 
 - **La Fabrica de Neuronas**\
-*Lucas Mongiat*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes)
+*Lucas Mongiat*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes)
 
 - **Analisis de lúpulo**\
-*Luciana Cavallini*, Investigadora del [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=)
+*Luciana Cavallini*, investigadora del [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=)
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
-*Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes)
+*Maria Gabriela Perotti*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes)
 
 - **Anillos de Árboles: ¿Qué historias nos pueden contar?**\
-*Maria Laura Suarez*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
+*Maria Laura Suarez*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
 
 - **La mesa de las plumas: Para jugar en familia y aprender de las aves de Bariloche**\
-*Lucía Bocelli*, Investigadora en el grupo de Biología y Ecología de Animales Patagónicos [CONICET- BEAP](https://inibioma.conicet.gov.ar/zoologia/)\
-[naturalezasur.com.ar](https://naturalezasur.com.ar/)
+*Lucía Bocelli*, investigadora en el grupo de Biología y Ecología de Animales Patagónicos [CONICET- BEAP](https://inibioma.conicet.gov.ar/zoologia/)\
+<!--- [naturalezasur.com.ar](https://naturalezasur.com.ar/) -->
 
 - **Magnetismo en la vida cotidiana**\
-*Elin Winkler*, Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22955&datos_academicos=yes)
+*Elin Winkler*, investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22955&datos_academicos=yes)
 
 - **¿Ciencia y Poesía? Experimentaciones poéticas y conocimientos plurales**\
-*Gabriela Klier*, Investigadora del [CONICET - CITECDE](https://www.conicet.gov.ar/new_scp/detalle.php?id=40871&datos_academicos=yes&keywords=)\
+*Gabriela Klier*, investigadora del [CONICET - CITECDE](https://www.conicet.gov.ar/new_scp/detalle.php?id=40871&datos_academicos=yes&keywords=)\
 [CITECDE - URN](https://www.institutocitecde.com/)\
 [Asamblea de Poetas Bariloche](https://www.elcordillerano.com.ar/noticias/2024/01/24/180316-vamos-a-poetizar-para-provocar-un-sismo-en-la-crueldad-normalizada)
 
@@ -119,14 +118,20 @@ Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.ar
 [instagram.com/grinbic](https://www.instagram.com/grinbic/)
 
 - **Crecer cristales**\
-*Diego Franco*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27844&datos_academicos=yes)
+*Diego Franco*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27844&datos_academicos=yes)
+
+**De modelos matemáticos al entendimiento de la naturaleza**\
+*Ana Clara Rodriguez Quinteros*, estudiante avanzada de doctorado [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=55324&datos_academicos=yes)
+
+**Los fósiles y la Paleontología**\
+*Mauro Passalia*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=26933&datos_academicos=yes)
 
 
 
 
 
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
-*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
+*Damián Dellavale*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
 <img src="Elijo_Crecer_2024/purpleday.jfif" alt="purpleday" align="left" width=25% height=25%/>
 
