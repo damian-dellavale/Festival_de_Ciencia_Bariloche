@@ -178,8 +178,8 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 - **Juego "Dark Matter"**
 
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
-<img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="almaMestiza" align="left" width=25% height=25%/>
-<img src="Elijo_Crecer_2024/fantasmas.jpg" alt="fantasmas" align="left" width=25% height=25%/>
+<img src="Elijo_Crecer_2024/fantasmas.jpg" alt="almaMestiza" align="left" width=25% height=25%/>
+<img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="fantasmas" align="left" width=25% height=25%/>
 <img src="Elijo_Crecer_2024/lallave.jpg" alt="lallave" align="left" width=20% height=20%/>
 <img src="Elijo_Crecer_2024/bandaAtomica.jpg" alt="bandaAtomica" align="left" width=20% height=20%/>
 
