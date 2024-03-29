@@ -180,7 +180,7 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 <img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="almaMestiza" align="left" width=25% height=25%/>\
-**Alma Mestiza**
+**Alma Mestiza**\
 
 <img src="Elijo_Crecer_2024/fantasmas.webp" alt="fantasmas" align="right" width=25% height=25%/>\
 **Los Fantasmas del cuartel**
