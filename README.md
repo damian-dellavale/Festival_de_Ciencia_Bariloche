@@ -101,15 +101,16 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 *Maria Laura Suarez* [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
 
 - **La mesa de las plumas: Para jugar en familia y aprender de las aves de Bariloche**\
-*Lucía Bocelli* Investigadora en el grupo de Biología y Ecología de Animales Patagónicos [CONICET- BEAP](https://inibioma.conicet.gov.ar/zoologia/)
+*Lucía Bocelli* Investigadora en el grupo de Biología y Ecología de Animales Patagónicos [CONICET- BEAP](https://inibioma.conicet.gov.ar/zoologia/)\
+[naturalezasur.com.ar](https://naturalezasur.com.ar/)
 
 - **Magnetismo en la vida cotidiana**\
 *Elin Winkler* Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22955&datos_academicos=yes)
 
 - **¿Ciencia y Poesía? Experimentaciones poéticas y conocimientos plurales**
 *Gabriela Klier* investigadora del [CONICET - CITECDE](https://www.conicet.gov.ar/new_scp/detalle.php?id=40871&datos_academicos=yes&keywords=)\
-[CITECDE - URN]https://www.institutocitecde.com/\
-[Asamblea de Poetas](https://www.elcordillerano.com.ar/noticias/2024/01/24/180316-vamos-a-poetizar-para-provocar-un-sismo-en-la-crueldad-normalizada)
+[CITECDE - URN](https://www.institutocitecde.com/)\
+[Asamblea de Poetas Bariloche](https://www.elcordillerano.com.ar/noticias/2024/01/24/180316-vamos-a-poetizar-para-provocar-un-sismo-en-la-crueldad-normalizada)
 
 
 
