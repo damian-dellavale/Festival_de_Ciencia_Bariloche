@@ -83,7 +83,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - 17hs: **Grandes proyectos tecnológicos y transición energética**\
 *Adriana Serquis*, investigadora del [CONICET - CEntro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
 
-### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
+### Stands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 - **Juegos de Química**\
 *Andrea Bellver*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
@@ -142,7 +142,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 [Estudiantes del CRUB ganaron el concurso Nacional de Fotografía Científica de Wikipedia](https://internacionales.uncoma.edu.ar/estudiantes-del-crub-ganaron-el-concurso-nacional-de-fotografia-cientifica-de-wikipedia-2/)\
 <br/>
-[Fotografías microscópicas: estudiantes de la Universidad Nacional del Comahue ganó tres premios](https://www.redaccion.com.ar/fotografias-microscopicas-una-pareja-de-la-universidad-nacional-del-comahue-gano-tres-premios/)\
+[Fotografías microscópicas: Estudiantes de la Universidad Nacional del Comahue ganaron tres premios](https://www.redaccion.com.ar/fotografias-microscopicas-una-pareja-de-la-universidad-nacional-del-comahue-gano-tres-premios/)\
 <br/>
 [2023 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition/one-week-old-axolotl-after-hatching)\
 <br clear="left"/>
