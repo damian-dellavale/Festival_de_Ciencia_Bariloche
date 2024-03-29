@@ -49,7 +49,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 80 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
 
-<p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_3.png" alt="Flyer consignas" width=70% height=70%/> </p>
+<p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_3.jpg" alt="Flyer consignas" width=70% height=70%/> </p>
 
 ### Charlas de divulgación sobre ciencia en Bariloche
 
