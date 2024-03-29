@@ -76,6 +76,12 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 ### Estands de divulgación sobre la ciencia en Bariloche
 
+- **Juegos de Química**\
+*Andrea Bellver*
+
+- **La Fabrica de Neuronas**\
+*Lucas Mongiat*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes).
+
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 *Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes).
 
