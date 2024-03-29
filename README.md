@@ -54,7 +54,10 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 ### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
 - 11hs: **¿Cómo se "fabrica" una manzana?**\
-*Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
+*Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=56945&datos_academicos=yes).
+
+- 12hs: **Acerca de cuantas vidas esta hecho un árbol**\
+*Maria Laura Suarez*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma).
 
 - 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
 *Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
@@ -68,13 +71,16 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
 <br clear="left"/>
 
+- 14hs: **¿Cuál es la utilidad de la investigación en física básica?**\
+*Diego Mazzitelli*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes).
+
 - 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
-*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
+*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes).
 
 ### Estands de divulgación sobre la ciencia en Bariloche
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana.** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
-*Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
+*Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes).
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
