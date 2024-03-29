@@ -86,7 +86,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 ### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 - **Juegos de Química**\
-*Andrea Bellver*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)\
+*Andrea Bellver*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
 
 <img src="Elijo_Crecer_2024/tablaPeriodica.jpg" alt="tablaPeriodica" align="left" width=25% height=25%/>
 
