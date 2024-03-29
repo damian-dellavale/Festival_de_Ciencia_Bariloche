@@ -71,6 +71,9 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
 *Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes).
 
+- 17hs: **Grandes proyectos tecnológicos y transición energética**\
+*Adriana Serquis*, Presidenta de la CNEA, Investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes).
+
 ### Estands de divulgación sobre la ciencia en Bariloche
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
