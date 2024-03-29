@@ -234,6 +234,7 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
   - Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
 
+<br/>
 <p align="center">
 <!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg) --->
 <img src="Elijo_Crecer_2024/mesaFederal.jpg" alt="mesaFederal" width=70% height=70%/>
