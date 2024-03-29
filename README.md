@@ -143,7 +143,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 <img src="Elijo_Crecer_2024/Mircropaleontologia.jpg" alt="micropaleontología" align="left" width=25% height=25%/>
 
-[Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/paleontologia-y-micropaleontologia/)
+[Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/paleontologia-y-micropaleontologia/)\
 <!---[Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/wp-content/uploads/sites/61/2015/04/Mircropaleontologia.jpg) --->
 <br clear="left"/>
 
