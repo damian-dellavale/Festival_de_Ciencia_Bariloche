@@ -147,14 +147,14 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 [Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/paleontologia-y-micropaleontologia/)\
 <br clear="left"/>
 
-**Descubriendo especies antes de su extinción**\
+- **Descubriendo especies antes de su extinción**\
 Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=51651&datos_academicos=yes)
 
-**Conservación y manejo de especies forestales: sobre la definición de zonas genéticas**\
+- **Conservación y manejo de especies forestales: sobre la definición de zonas genéticas**\
 *Carolina Soliani*, investigadora del [CONICET - IFAB](https://www.conicet.gov.ar/new_scp/detalle.php?id=23662&datos_academicos=yes&keywords=)
 *María Marta Azpilicueta*, investigadora del [INTA](https://www.argentina.gob.ar/inta)
 
-**Ecologia de los disturbios**\
+- **Ecologia de los disturbios**\
 *Sofia Gonzales*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=41644&datos_academicos=yes)
 
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
@@ -175,11 +175,25 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 
 ### Juegos (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
-**Juego "Dark Matter"**
+- **Juego "Dark Matter"**
 
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
+- **Alma Mestiza**
+<img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="almaMestiza" align="left" width=25% height=25%/>
+<br clear="left"/>
 
+- **Los Fantasmas del cuartel**
+<img src="Elijo_Crecer_2024/fantasmas.webp" alt="fantasmas" align="left" width=25% height=25%/>
+<br clear="left"/>
+
+- **Orquesta La Llave**
+<img src="Elijo_Crecer_2024/lallave.jpg" alt="lallave" align="left" width=25% height=25%/>
+<br clear="left"/>
+
+- **Banda Atómica**
+<img src="Elijo_Crecer_2024/bandaAtomica.jpg" alt="bandaAtomica" align="left" width=25% height=25%/>
+<br clear="left"/>
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
