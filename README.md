@@ -184,12 +184,10 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 <img src="Elijo_Crecer_2024/bandaAtomica.jpg" alt="bandaAtomica" align="left" width=20% height=20%/>
 <br clear="left"/>
 
-<p align="center">
 <b>Los Fantasmas del cuartel&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Alma Mestiza&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Orquesta La Llave&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Banda Atómica</b>
-</p>
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
