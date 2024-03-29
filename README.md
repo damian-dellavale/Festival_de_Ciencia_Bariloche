@@ -180,14 +180,14 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 <img src="Elijo_Crecer_2024/fantasmas.jpg" alt="fantasmas" align="left" width=25% height=25%/>
 <img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="almaMestiza" align="left" width=25% height=25%/>
-<img src="Elijo_Crecer_2024/bandaAtomica.jpg" alt="bandaAtomica" align="left" width=20% height=20%/>
 <img src="Elijo_Crecer_2024/lallave.jpg" alt="lallave" align="left" width=20% height=20%/>
+<img src="Elijo_Crecer_2024/bandaAtomica.jpg" alt="bandaAtomica" align="left" width=20% height=20%/>
 <br clear="left"/>
 
 <p align="center">
-<b>Alma Mestiza<br/>
-Los Fantasmas del cuartel<br/>
-Orquesta La Llave<br/>
+<b>Los Fantasmas del cuartel&nbsp&nbsp&nbsp&nbsp
+Alma Mestiza&nbsp&nbsp&nbsp&nbsp
+Orquesta La Llave&nbsp&nbsp&nbsp&nbsp
 Banda Atómica</b>
 </p>
 
