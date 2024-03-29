@@ -105,7 +105,7 @@ Uno de los firmantes de la carta es premio nobel en Economía.
   - [Nota del diario Tiempo Argentino que incluye una traducción de la carta al castellano.](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)
   - [Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
 
-- Notas de la revista ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.
+- Notas de ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.
   - Septiembre 2023: [Argentina, la ciencia pública está amenazada](https://www.nature.com/articles/d41586-023-02862-5)
   - Octubre 2023: [Elecciones en Argentina, el candidato favorito promete recortar la financiación científica](https://www.nature.com/articles/d41586-023-03191-3)
   - Noviembre 2023: [Recortes presupuestarios en salud y ciencia no deberían ser una opción en las elecciones presidenciales de Argentina](https://www.nature.com/articles/d41586-023-03480-x)
@@ -115,5 +115,11 @@ Uno de los firmantes de la carta es premio nobel en Economía.
 
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
   - Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
+
+## Elijo Crecer en la prensa local
+
+[Nota en Diario Río Negro](https://www.rionegro.com.ar/sociedad/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina-3462956/)
+
+[Nota en en el sitio web noticiasdebariloche.com.ar](https://www.noticiasdebariloche.com.ar/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina/)
 
 <br> Podrás encontrar el material asociado a estos links en la carpeta ```Elijo_Crecer_2024/``` (ubicada más arriba en esta página).
