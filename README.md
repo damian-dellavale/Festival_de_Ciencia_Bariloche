@@ -81,7 +81,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 *Gustavo Viozzi*, docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes)
 
 - 17hs: **Grandes proyectos tecnológicos y transición energética**\
-*Adriana Serquis*, investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
+*Adriana Serquis*, investigadora del [CONICET - CEntro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
 
 ### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
@@ -187,7 +187,7 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 
 - **Cristales cristalinos**\
 *Virginia Tognoli*, técnica investigadora del [Instituto de Nanociencias y Nanotecnología (INN) - Centro Atómico Bariloche](https://inn-cnea.conicet.gov.ar/)\
-*Adriana Serquis*, investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
+*Adriana Serquis*, investigadora del [CONICET - CEntro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
 
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
