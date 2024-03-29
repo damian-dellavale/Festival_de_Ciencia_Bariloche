@@ -65,6 +65,9 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - 14hs: **¿Cuál es la utilidad de la investigación en física básica?**\
 *Diego Mazzitelli*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes).
 
+- 15hs: **Presentando al pájaro Carpintero Gigante, vecino del barrio arbolado**\
+*Valeria Ojeda*, Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=24326&datos_academicos=yes).
+
 - 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
 *Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes).
 
