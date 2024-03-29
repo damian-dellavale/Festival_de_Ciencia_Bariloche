@@ -53,14 +53,11 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 ### Charlas de divulgación sobre ciencia en Bariloche (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
-- **¿Cómo se "fabrica" una manzana? (11hs)**
-Marina Arbetman
+- **11hs: ¿Cómo se "fabrica" una manzana?)**
+*Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
 
-- **Trucha, parásito y persona y un punto de encuentro: tu intestino (16hs)** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
-*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
-
-- **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
-Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dellavale), Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
+- **13hs: Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
+*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
 
 <img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
 
@@ -71,10 +68,13 @@ Disertante: [Damián Dellavale](https://www.researchgate.net/profile/Damian-Dell
 **[#purpleday](https://www.facebook.com/hashtag/purpleday)**
 <br clear="left"/>
 
+- **16hs: Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
+*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
+
 ### Estands de divulgación sobre ciencia en Bariloche
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana.** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
-A cargo de: [Maria Gabriela Perotti](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes), Investigadora del [INIBIOMA - CONICET](https://inibioma.conicet.gov.ar/).
+*Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/).
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
