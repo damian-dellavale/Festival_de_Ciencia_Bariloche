@@ -57,6 +57,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 [Nota en en el sitio web noticiasdebariloche.com.ar](https://www.noticiasdebariloche.com.ar/elijo-crecer-fest-llega-el-festival-hecho-a-pulmon-para-mostrar-la-extraordinaria-calidad-de-la-ciencia-argentina/)
 
+<br>
 <p align="center"> <img src="Elijo_Crecer_2024/Flyer_consignas_1.png" alt="Flyer consignas" width=70% height=70%/> </p>
 
 ### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
@@ -89,6 +90,9 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 - **La Fabrica de Neuronas**\
 *Lucas Mongiat*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes).
+
+- **Analisis de lúpulo**\
+*Luciana Cavallini* [CONICET - IPATEC]([CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=).
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
 *Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes).
