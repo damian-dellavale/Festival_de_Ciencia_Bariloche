@@ -86,7 +86,10 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 ### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 - **Juegos de Química**\
-*Andrea Bellver*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
+*Andrea Bellver*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)\
+[Novedosa tabla periódica hecha en Bariloche](https://www.anbariloche.com.ar/noticias/2017/02/01/56949-presentaron-una-novedosa-tabla-periodica-hecha-en-bariloche)\
+[Una tabla periódica "made in" Bariloche](https://www.rionegro.com.ar/225-zona-de-descargas-folletos-de-divulgacion/)\
+[Descarga la tabla periódica](https://www.cab.cnea.gov.ar/images/gacetillas/muestra_cab_ib/folletos_muestra/tabla_periodica_2016.pdf)
 
 - **La Fabrica de Neuronas**\
 *Lucas Mongiat*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes)
@@ -180,13 +183,13 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 *María Belén Lovino*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
 
 - **Un rompecabezas para volverse mono**\
-*Carlos Bertoli*, técnico investigador del [CONICET - Instituto de Nanociencias y Nanotecnología (INN) - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=40261&datos_academicos=yes&keywords=)
+*Carlos Bertoli*, personal especializado de apoyo a la investigación [CONICET - Instituto de Nanociencias y Nanotecnología (INN) - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=40261&datos_academicos=yes&keywords=)
 
 - **¿Puede quedarse en casa?**\
 *Marina de la Reta*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=62247&datos_academicos=yes)
 
 - **Cristales cristalinos**\
-*Virginia Tognoli*, técnica investigadora del [Instituto de Nanociencias y Nanotecnología (INN) - Centro Atómico Bariloche](https://inn-cnea.conicet.gov.ar/)\
+*Virginia Tognoli*, licenciada investigadora del [Instituto de Nanociencias y Nanotecnología (INN) - Centro Atómico Bariloche](https://inn-cnea.conicet.gov.ar/)\
 *Adriana Serquis*, investigadora del [CONICET - CEntro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
 
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
