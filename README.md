@@ -74,7 +74,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - 17hs: **Grandes proyectos tecnológicos y transición energética**\
 *Adriana Serquis*, Presidenta de la CNEA, Investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes).
 
-### Estands de divulgación sobre la ciencia en Bariloche
+### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 - **Juegos de Química**\
 *Andrea Bellver*
