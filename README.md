@@ -128,7 +128,7 @@ Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.ar
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
 *Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
-<img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
+<img src="Elijo_Crecer_2024/purpleday.jfif" alt="purpleday" align="left" width=25% height=25%/>
 
 **26 de Marzo: Día Mundial para la Concienciación de la Epilepsia**
 
