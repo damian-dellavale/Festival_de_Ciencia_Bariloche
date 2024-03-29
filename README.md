@@ -86,7 +86,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 ### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
 - **Juegos de Química**\
-*Andrea Bellver* investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
+*Andrea Bellver*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
 
 - **La Fabrica de Neuronas**\
 *Lucas Mongiat*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes)
@@ -175,7 +175,18 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 
 ### Juegos (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
-- **Juego "Dark Matter"**
+- **Juego "Dark Matter"**\
+*Nicolás Avalos*, estudiante avanzado de doctorado [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=61904&keywords=&datos_academicos=yes)
+*María Belén Lovino*, investigadora en la [Comisión Nacional de Energía Atómica - Centro Atómico Bariloche](https://www.argentina.gob.ar/cnea/cab)
+
+- **Un rompecabezas para volverse mono**
+*Carlos Bertoli*, técnico investigador del [CONICET - Instituto de Nanociencias y Nanotecnología (INN) - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=40261&datos_academicos=yes&keywords=)
+
+- **¿Puede quedarse en casa?**\
+*Marina de la Reta*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=62247&datos_academicos=yes)
+**Cristales cristalinos**\
+*Virginia Tognoli*, técnica investigadora del [Instituto de Nanociencias y Nanotecnología (INN) - Centro Atómico Bariloche](https://inn-cnea.conicet.gov.ar/)
+*Adriana Serquis*, investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes), Presidenta de la [Comisión Nacional de Energía Atómica (CNEA)](https://www.argentina.gob.ar/cnea)
 
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 <img src="Elijo_Crecer_2024/fantasmas.jpg" alt="fantasmas" align="left" width=25% height=25%/>
