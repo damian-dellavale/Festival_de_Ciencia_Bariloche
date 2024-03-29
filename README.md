@@ -63,25 +63,25 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 ### Charlas de divulgación (Sala Chonek - Museo de la Patagonia, Centro Cívico)
 
 - 11hs: **¿Cómo se "fabrica" una manzana?**\
-*Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=56945&datos_academicos=yes).
+*Marina Arbetman*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=56945&datos_academicos=yes)
 
 - 12hs: **Acerca de cuantas vidas esta hecho un árbol**\
-*Maria Laura Suarez*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma).
+*Maria Laura Suarez*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
 
 - 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
-*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
+*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
 - 14hs: **¿Cuál es la utilidad de la investigación en física básica?**\
-*Diego Mazzitelli*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes).
+*Diego Mazzitelli*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes)
 
 - 15hs: **Presentando al pájaro Carpintero Gigante, vecino del barrio arbolado**\
-*Valeria Ojeda*, Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=24326&datos_academicos=yes).
+*Valeria Ojeda*, Investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=24326&datos_academicos=yes)
 
 - 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
-*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes).
+*Gustavo Viozzi*, Docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), Investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes)
 
 - 17hs: **Grandes proyectos tecnológicos y transición energética**\
-*Adriana Serquis*, Presidenta de la CNEA, Investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes).
+*Adriana Serquis*, Presidenta de la CNEA, Investigadora del [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=22731&datos_academicos=yes)
 
 ### Estands de divulgación (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
@@ -89,13 +89,13 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 *Andrea Bellver*
 
 - **La Fabrica de Neuronas**\
-*Lucas Mongiat*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes).
+*Lucas Mongiat*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=27806&datos_academicos=yes)
 
 - **Analisis de lúpulo**\
-*Luciana Cavallini* [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=).
+*Luciana Cavallini* [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=)
 
 - **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
-*Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes).
+*Maria Gabriela Perotti*, Investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes)
 
 - **Anillos de Arboles: ¿Qué historias nos pueden contar?**\
 *Maria Laura Suarez* [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
@@ -111,7 +111,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 
 - **¿Cómo nos ayuda la matemática a entender las enfermedades neurológicas?**\
-*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes).
+*Damián Dellavale*, Investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
 <img src="Elijo_Crecer_2024/purpleday.jpg" alt="purpleday" align="left" width=25% height=25%/>
 
@@ -129,7 +129,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la República Argentina manifestando su preocupación por los irracionales recortes presupuestarios al sistema científico y tecnológico argentino, los cuales atentan contra la soberanía nacional.
 Uno de los firmantes de la carta es premio nobel en Economía.
   - [Carta original en inglés](Elijo_Crecer_2024/Letter-to-Javier-Milei-and-colleagues.pdf)
-  - [Nota del diario Tiempo Argentino que incluye una traducción de la carta al castellano.](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)
+  - [Nota del diario Tiempo Argentino que incluye una traducción de la carta al castellano](https://www.tiempoar.com.ar/ta_article/68-nobel-carta-milei-ciencia/)
   - [Nota en la prensa internacional](https://www.dw.com/es/cient%C3%ADficos-piden-a-javier-milei-revertir-recortes-a-ciencia/a-68458755)
 
 - Notas de ***Nature***, una de las revistas científicas internacionales de mayor impacto, sobre los recortes al presupuesto de la salud y ciencia Argentina.
