@@ -179,17 +179,18 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 
 ### Actividades culturales (Av. 12 de Octubre #14, ex-Puerto San Carlos)
 
-<img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="almaMestiza" align="left" width=25% height=25%/>\
-**Alma Mestiza**
+<img src="Elijo_Crecer_2024/almaMestiza.jpg" alt="almaMestiza" align="left" width=25% height=25%/>
+<img src="Elijo_Crecer_2024/fantasmas.jpg" alt="fantasmas" align="left" width=25% height=25%/>
+<img src="Elijo_Crecer_2024/lallave.jpg" alt="lallave" align="left" width=25% height=25%/>
+<img src="Elijo_Crecer_2024/bandaAtomica.jpg" alt="bandaAtomica" align="left" width=25% height=25%/>
+<br clear="left"/>
 
-**<Los Fantasmas del cuartel align="right">**
-
-
-<img src="Elijo_Crecer_2024/lallave.jpg" alt="lallave" align="left" width=25% height=25%/>\
-<img src="Elijo_Crecer_2024/bandaAtomica.jpg" alt="bandaAtomica" align="left" width=25% height=25%/>\
+<p align="center">
+**Alma Mestiza**\
+**Los Fantasmas del cuartel**\
 **Orquesta La Llave**\
 **Banda Atómica**
-<br clear="left"/>
+</p>
 
 ## Información sobre la grave situación actual de la ciencia y soberanía argentinas
 
