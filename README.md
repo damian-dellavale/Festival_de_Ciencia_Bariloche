@@ -49,6 +49,8 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 80 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
 
+[Claudia Piñeiro, escritora y guionista argentina nos cuenta sobre algunas de las producciones científicas más importantes del país y que son reconocidas mundialmente](https://www.instagram.com/reel/C5HEHPwOQUA/)
+
 [Nota en el sitio web de la UNCOMA](https://extension.uncoma.edu.ar/index.php/prensa/festival-elijo-crecer/)
 
 [Nota en el sitio web de la UNRN](https://www.unrn.edu.ar/eventos/Elijo-Crecer-2064)
@@ -68,16 +70,16 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - 12hs: **Acerca de cuantas vidas esta hecho un árbol**\
 *Maria Laura Suarez*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=31657&datos_academicos=yes&keywords=inibioma)
 
-- 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://youtu.be/zaysC2G6Ywo)\
+- 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://www.instagram.com/reel/C4-ucReuPHd/)\
 *Damián Dellavale*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
-- 14hs: **¿Cuál es la utilidad de la investigación en física básica?**\
+- 14hs: **¿Cuál es la utilidad de la investigación en física básica?**[(video)](https://www.instagram.com/reel/C5CBrhkO-bA/)\
 *Diego Mazzitelli*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes)
 
-- 15hs: **Presentando al pájaro Carpintero Gigante, vecino del barrio arbolado**\
+- 15hs: **Presentando al pájaro Carpintero Gigante, vecino del barrio arbolado**[(video)](https://www.instagram.com/reel/C5FAP8PMvKO/)\
 *Valeria Ojeda*, investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=24326&datos_academicos=yes)
 
-- 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://drive.google.com/file/d/1OSppQhG0jluMeeQQzXRqrs4CydYnphRV/view?usp=drive_link)\
+- 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://www.instagram.com/reel/C40mD0ngbbM/)\
 *Gustavo Viozzi*, docente de la [Universidad del Comahue](https://academica.uncoma.edu.ar/), investigador del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=24510&datos_academicos=yes)
 
 - 17hs: **Grandes proyectos tecnológicos y transición energética**\
@@ -103,7 +105,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - **Analisis de lúpulo**\
 *Luciana Cavallini*, investigadora del [CONICET - IPATEC](https://www.conicet.gov.ar/new_scp/detalle.php?id=56564&datos_academicos=yes&keywords=)
 
-- **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://drive.google.com/file/d/1Mn55WxncilVPhhd9wyhQhznBk8edH8RG/view?usp=drive_link)\
+- **Anfibios y reptiles: Animales sorprendentes que aportan a nuestra vida cotidiana** [(video)](https://www.instagram.com/reel/C48m3JnuFuq/)\
 *Maria Gabriela Perotti*, investigadora del [CONICET - INIBIOMA](https://www.conicet.gov.ar/new_scp/detalle.php?id=19913&keywords=gabriela+perotti&datos_academicos=yes)
 
 - **Anillos de Árboles: ¿Qué historias nos pueden contar?**\
