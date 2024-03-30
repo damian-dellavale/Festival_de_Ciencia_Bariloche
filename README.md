@@ -51,6 +51,8 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 [Claudia Piñeiro, escritora y guionista argentina nos cuenta sobre algunas de las producciones científicas más importantes del país y que son reconocidas mundialmente](https://www.instagram.com/reel/C5HEHPwOQUA/)
 
+[Alma Mestiza Danza](https://www.instagram.com/reel/C5JQxfiOSNs/)
+
 [Nota en el sitio web de la UNCOMA](https://extension.uncoma.edu.ar/index.php/prensa/festival-elijo-crecer/)
 
 [Nota en el sitio web de la UNRN](https://www.unrn.edu.ar/eventos/Elijo-Crecer-2064)
@@ -154,7 +156,7 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 
 <img src="Elijo_Crecer_2024/Mircropaleontologia.jpg" alt="micropaleontología" align="left" width=25% height=25%/>
 
-<!---[Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/wp-content/uploads/sites/61/2015/04/Mircropaleontologia.jpg)\ --->
+<!--- [Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/wp-content/uploads/sites/61/2015/04/Mircropaleontologia.jpg)\ --->
 [Micropaleontología en el CONICET - INIBIOMA](https://inibioma.conicet.gov.ar/paleontologia-y-micropaleontologia/)\
 <br clear="left"/>
 
@@ -210,8 +212,8 @@ Agustina Martinez, investigadora postdoctoral del [CONICET - INIBIOMA](https://w
 
 <p align="left">
 <b>Los Fantasmas del cuartel&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-Alma Mestiza&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-Orquesta La Llave&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+[Alma Mestiza](https://www.instagram.com/reel/C5JQxfiOSNs/)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<!--- Orquesta La Llave&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp --->
 Banda Atómica</b>
 </p>
 
