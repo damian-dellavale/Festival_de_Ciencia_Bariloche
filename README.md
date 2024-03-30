@@ -73,10 +73,10 @@ Festival federal en defensa de la ciencia y la tecnología argentinas, que inclu
 - 13hs: **Argentina y Francia investigan mejoras en el tratamiento de la epilepsia** [(video)](https://www.instagram.com/reel/C4-ucReuPHd/)\
 *Damián Dellavale*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=39010&datos_academicos=yes)
 
-- 14hs: **¿Cuál es la utilidad de la investigación en física básica?**[(video)](https://www.instagram.com/reel/C5CBrhkO-bA/)\
+- 14hs: **¿Cuál es la utilidad de la investigación en física básica?** [(video)](https://www.instagram.com/reel/C5CBrhkO-bA/)\
 *Diego Mazzitelli*, investigador del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?id=19815&keywords=&datos_academicos=yes)
 
-- 15hs: **Presentando al pájaro Carpintero Gigante, vecino del barrio arbolado**[(video)](https://www.instagram.com/reel/C5FAP8PMvKO/)\
+- 15hs: **Presentando al pájaro Carpintero Gigante, vecino del barrio arbolado** [(video)](https://www.instagram.com/reel/C5FAP8PMvKO/)\
 *Valeria Ojeda*, investigadora del [CONICET - Centro Atómico Bariloche](https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=24326&datos_academicos=yes)
 
 - 16hs: **Trucha, parásito y persona y un punto de encuentro: tu intestino** [(video)](https://www.instagram.com/reel/C40mD0ngbbM/)\
