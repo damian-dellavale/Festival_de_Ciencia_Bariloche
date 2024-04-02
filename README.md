@@ -50,13 +50,15 @@ Difusión de actividades científicas realizadas en Bariloche.
 **X**\
 [twitter.com/ElijoCrecer](https://twitter.com/ElijoCrecer)
 
+<br clear="left"/>
+
 <!--- ![QR code githubRepo](Elijo_Crecer_2024/qr-code_hq_githubRepo.png =200x200) --->
 <img src="Elijo_Crecer_2024/qr-code_hq_githubRepo.png" alt="QR code githubRepo" align="left" width="200px" height="200px"/>
 
 <!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =200x200) --->
 <img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="right" width="200px" height="200px"/>
 
-<br clear="right"/>
+<br clear="left"/>
 
 <!---
 <p align="left">
