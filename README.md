@@ -29,17 +29,25 @@ Difusión de actividades científicas realizadas en Bariloche.
 <!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =300x300) --->
 <img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="left" width="300px" height="300px"/>
 
-**Sitio web Bariloche**\
+**Sitio web**\
 [elijocrecer-brc](https://sites.google.com/view/elijocrecer-brc)\
-**Sitio web nacional**\
-[elijocrecerfest.com](http://elijocrecerfest.com/)
+[elijocrecerfest.com](http://elijocrecerfest.com)
 
 **E-mail**\
 [elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
 
 **Instagram**\
-[@elijocrecerfest](https://www.instagram.com/elijocrecerfest/)\
-[@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc/)
+[@elijocrecerfest](https://www.instagram.com/elijocrecerfest)\
+[@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc)
+
+**Facebook**\
+[ElijoCrecer](https://www.facebook.com/ElijoCrecer)\
+
+**TikTok**\
+[@elijocrecer](https://www.tiktok.com/@elijocrecer)\
+
+**YouTube**\
+[@elijocrecer](https://www.youtube.com/@ElijoCrecer)\
 
 **X**\
 [twitter.com/ElijoCrecer](https://twitter.com/ElijoCrecer)
@@ -47,7 +55,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 ## Información sobre el festival
 
-Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 80 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
+Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 50 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
 
 [Claudia Piñeiro, escritora y guionista argentina nos cuenta sobre algunas de las producciones científicas más importantes del país y que son reconocidas mundialmente](https://www.instagram.com/reel/C5HEHPwOQUA/)
 
