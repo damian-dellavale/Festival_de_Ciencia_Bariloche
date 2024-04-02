@@ -29,11 +29,11 @@ Difusión de actividades científicas realizadas en Bariloche.
 <!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =300x300) --->
 <img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="left" width="300px" height="300px"/>
 
-**Sitio web**\
-[elijocrecer-brc](https://sites.google.com/view/elijocrecer-brc)\
+**Sitio web**
+[elijocrecer-brc](https://sites.google.com/view/elijocrecer-brc); 
 [elijocrecerfest.com](http://elijocrecerfest.com)
 
-**E-mail**\
+**E-mail**
 [elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
 <br clear="left"/>
 
