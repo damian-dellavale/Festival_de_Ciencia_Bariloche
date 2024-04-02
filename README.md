@@ -18,16 +18,14 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 ## Ciencia X Argentina - Nodo Bariloche
 
+<!---
 <p align="center">
-<!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg) --->
+<!--- ![Festival Elijo Crecer 2024](Elijo_Crecer_2024/NODO_BARILOCHE.jpg)
 <img src="Elijo_Crecer_2024/NODO_BARILOCHE.jpg" alt="Festival Elijo Crecer 2024" width=70% height=70%/>
 </p>
+--->
 
-<!--- ![QR code githubRepo](Elijo_Crecer_2024/qr-code_hq_githubRepo.png =150x150) --->
-<img src="Elijo_Crecer_2024/qr-code_hq_githubRepo.png" alt="QR code githubRepo" align="left" width="150px" height="150px"/>
-
-<!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =150x150) --->
-<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="left" width="150px" height="150px"/>
+<img src="Elijo_Crecer_2024/NODO_BARILOCHE.jpg" alt="Festival Elijo Crecer 2024" align="left" width=70% height=70%/>
 
 **Sitio web**\
 [elijocrecer-brc](https://sites.google.com/view/elijocrecer-brc)\
@@ -51,7 +49,14 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 **X**\
 [twitter.com/ElijoCrecer](https://twitter.com/ElijoCrecer)
+
 <br clear="left"/>
+
+<!--- ![QR code githubRepo](Elijo_Crecer_2024/qr-code_hq_githubRepo.png =200x200) --->
+<img src="Elijo_Crecer_2024/qr-code_hq_githubRepo.png" alt="QR code githubRepo" align="left" width="200px" height="200px"/>
+
+<!--- ![QR code googleSite](Elijo_Crecer_2024/qr-code_hq_googleSite.png =200x200) --->
+<img src="Elijo_Crecer_2024/qr-code_hq_googleSite.png" alt="QR code googleSite" align="right" width="200px" height="200px"/>
 
 <!---
 <p align="left">
