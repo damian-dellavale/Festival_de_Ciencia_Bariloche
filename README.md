@@ -37,20 +37,16 @@ Difusión de actividades científicas realizadas en Bariloche.
 [elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
 <br clear="left"/>
 
-<p align="right">
+<p align="center">
 <b>Instagram</b><br/>
 <a href="https://www.instagram.com/elijocrecerfest">@elijocrecerfest</a><br/>
 <a href="https://www.instagram.com/elijocrecerfest.brc">@elijocrecerfest.brc</a><br/>
-<br/>
 <b>Facebook</b><br/>
 <a href="https://www.facebook.com/ElijoCrecer">ElijoCrecer</a><br/>
-<br/>
 <b>TikTok</b><br/>
 <a href="https://www.tiktok.com/@elijocrecer">@elijocrecer</a><br/>
-<br/>
 <b>YouTube</b><br/>
 <a href="https://www.youtube.com/@ElijoCrecer">@elijocrecer</a><br/>
-<br/>
 <b>X</b><br/>
 <a href="https://twitter.com/ElijoCrecer">twitter.com/ElijoCrecer</a>
 </p>
