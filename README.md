@@ -41,13 +41,13 @@ Difusión de actividades científicas realizadas en Bariloche.
 [@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc)
 
 **Facebook**\
-[ElijoCrecer](https://www.facebook.com/ElijoCrecer)\
+[ElijoCrecer](https://www.facebook.com/ElijoCrecer)
 
 **TikTok**\
-[@elijocrecer](https://www.tiktok.com/@elijocrecer)\
+[@elijocrecer](https://www.tiktok.com/@elijocrecer)
 
 **YouTube**\
-[@elijocrecer](https://www.youtube.com/@ElijoCrecer)\
+[@elijocrecer](https://www.youtube.com/@ElijoCrecer)
 
 **X**\
 [twitter.com/ElijoCrecer](https://twitter.com/ElijoCrecer)
