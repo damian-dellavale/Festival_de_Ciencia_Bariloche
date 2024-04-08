@@ -35,12 +35,12 @@ Difusión de actividades científicas realizadas en Bariloche.
 [elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
 
 **Instagram**\
-[@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc)
-[@elijocrecerfest](https://www.instagram.com/elijocrecerfest)\
+[@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc)\
+[@elijocrecerfest](https://www.instagram.com/elijocrecerfest)
 
 **Facebook**\
-[Elijo Crecer Bariloche](https://www.facebook.com/profile.php?id=61558317804189)
-[Elijo Crecer Nodo Bariloche](https://www.facebook.com/profile.php?id=61558091221648)
+[Elijo Crecer Bariloche](https://www.facebook.com/profile.php?id=61558317804189)\
+[Elijo Crecer Nodo Bariloche](https://www.facebook.com/profile.php?id=61558091221648)\
 [ElijoCrecer](https://www.facebook.com/ElijoCrecer)
 
 **TikTok**\
