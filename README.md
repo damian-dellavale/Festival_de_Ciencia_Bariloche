@@ -35,10 +35,12 @@ Difusión de actividades científicas realizadas en Bariloche.
 [elijocrecerbrc@gmail.com](elijocrecerbrc@gmail.com)
 
 **Instagram**\
-[@elijocrecerfest](https://www.instagram.com/elijocrecerfest)\
 [@elijocrecerfest.brc](https://www.instagram.com/elijocrecerfest.brc)
+[@elijocrecerfest](https://www.instagram.com/elijocrecerfest)\
 
 **Facebook**\
+[Elijo Crecer Bariloche](https://www.facebook.com/profile.php?id=61558317804189)
+[Elijo Crecer Nodo Bariloche](https://www.facebook.com/profile.php?id=61558091221648)
 [ElijoCrecer](https://www.facebook.com/ElijoCrecer)
 
 **TikTok**\
@@ -79,6 +81,12 @@ Difusión de actividades científicas realizadas en Bariloche.
 ## Información sobre el festival
 
 Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 50 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
+
+[Nota en el diario El Cordillerano](https://www.elcordillerano.com.ar/noticias/2024/04/07/185707-el-primer-festival-de-ciencia-y-tecnologia-en-bariloche-fue-un-exito)
+
+[Nota en el sitio AL Margen: Periodismo Colectivo](https://almargen.org.ar/2024/04/06/ser-noqui-no-es-una-ciencia/)
+
+[Entrevista en el Diario de Bariloche Noticiero AB TV](https://youtu.be/aBXejp_yDKc)
 
 [Claudia Piñeiro, escritora y guionista argentina nos cuenta sobre algunas de las producciones científicas más importantes del país y que son reconocidas mundialmente](https://www.instagram.com/reel/C5HEHPwOQUA/)
 
