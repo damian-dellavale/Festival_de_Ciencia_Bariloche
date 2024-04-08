@@ -80,7 +80,7 @@ Difusión de actividades científicas realizadas en Bariloche.
 
 ## Información sobre el festival
 
-Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 50 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
+Festival federal en defensa de la ciencia y la tecnología argentinas, que incluye [más de 60 nodos](https://www.google.com/maps/d/u/0/viewer?hl=es&ll=-29.080514765030557%2C-63.75440013671128&z=5&mid=15G0hhOJAzpDsBEeY5ecu3O_jOmDunB8) a lo largo de nuestro país.
 
 [Nota en el diario El Cordillerano](https://www.elcordillerano.com.ar/noticias/2024/04/07/185707-el-primer-festival-de-ciencia-y-tecnologia-en-bariloche-fue-un-exito)
 
