@@ -260,6 +260,8 @@ Banda Atómica</b>
 
 - [Comunicación de autoridades de Centros Científicos Tecnológicos del CONICET](https://patagonianorte.conicet.gov.ar/comunicacion-de-autoridades-de-centros-cientificos-tecnologicos-del-conicet/)
 
+- [Abrazos y cartas al rescate de la ciencia argentina](https://www.ctys.com.ar/interdisciplinario/abrazos-y-cartas-al-rescate-de-la-ciencia-argentina/)
+
 - En Marzo de 2024, 68 premios nobel enviaron una carta al actual presidente de la República Argentina manifestando su preocupación por los irracionales recortes presupuestarios al sistema científico y tecnológico argentino, los cuales atentan contra la soberanía nacional.
 Uno de los firmantes de la carta es premio nobel en Economía.
   - [Carta original en inglés](Elijo_Crecer_2024/Letter-to-Javier-Milei-and-colleagues.pdf)
