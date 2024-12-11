@@ -273,13 +273,20 @@ Uno de los firmantes de la carta es premio nobel en Economía.
     [Argentina, la ciencia pública está amenazada](https://www.nature.com/articles/d41586-023-02862-5)
   - Octubre 2023:<br/>
     [Elecciones en Argentina, el candidato favorito promete recortar la financiación científica](https://www.nature.com/articles/d41586-023-03191-3)
-  - Noviembre 2023: [Recortes presupuestarios en salud y ciencia no deberían ser una opción en las elecciones presidenciales de Argentina](https://www.nature.com/articles/d41586-023-03480-x)
-  - Noviembre 2023: ["Extremadamente preocupante", investigadores argentinos se tambalean tras la elección de un presidente anticientífico](https://www.nature.com/articles/d41586-023-03620-3)
-  - Marzo 2024: ["Desesperación", investigadores argentinos protestan mientras el presidente comienza a desmantelar la ciencia](https://www.nature.com/articles/d41586-024-00628-1)
-  - Marzo 2024: [Los riesgos para la salud de la política neoliberal extrema en Argentina](https://www.nature.com/articles/d41591-024-00019-z)
-  - April 2024: [Un golpe devastador: reflexiones personales sobre el declive científico de Argentina](https://journals.asm.org/doi/10.1128/jvi.00549-24)
-  - November 2024: ['Cienticidio': la fuerza laboral científica de Argentina se reduce mientras el gobierno aplica medidas de austeridad](https://www.science.org/content/article/scienticide-argentina-s-science-workforce-shrinks-government-pursues-austerity)
-  - December 2024: ['No quedará nada': investigadores temen colapso de la ciencia en Argentina](https://www.nature.com/articles/d41586-024-03994-y)
+  - Noviembre 2023:<br/>
+    [Recortes presupuestarios en salud y ciencia no deberían ser una opción en las elecciones presidenciales de Argentina](https://www.nature.com/articles/d41586-023-03480-x)
+  - Noviembre 2023:<br/>
+    ["Extremadamente preocupante", investigadores argentinos se tambalean tras la elección de un presidente anticientífico](https://www.nature.com/articles/d41586-023-03620-3)
+  - Marzo 2024:<br/>
+    ["Desesperación", investigadores argentinos protestan mientras el presidente comienza a desmantelar la ciencia](https://www.nature.com/articles/d41586-024-00628-1)
+  - Marzo 2024:<br/>
+    [Los riesgos para la salud de la política neoliberal extrema en Argentina](https://www.nature.com/articles/d41591-024-00019-z)
+  - April 2024:<br/>
+    [Un golpe devastador: reflexiones personales sobre el declive científico de Argentina](https://journals.asm.org/doi/10.1128/jvi.00549-24)
+  - November 2024:<br/>
+    ["Cienticidio": la fuerza laboral científica de Argentina se reduce mientras el gobierno aplica medidas de austeridad](https://www.science.org/content/article/scienticide-argentina-s-science-workforce-shrinks-government-pursues-austerity)
+  - December 2024:<br/>
+    ["No quedará nada": investigadores temen colapso de la ciencia en Argentina](https://www.nature.com/articles/d41586-024-03994-y)
 
 - Repercuciones en la prensa internacional por la falta de entrega de medicamentos a pacientes oncológicos de Argentina.
   - Marzo 2024: [Pacientes oncológicos sin remedios en Argentina](https://www.dw.com/es/pacientes-oncol%C3%B3gicos-sin-remedios-en-argentina/video-68423277)
